@@ -1,4 +1,4 @@
-package wottrich.github.io.take.notes.ui.theme
+package wottrich.github.io.take.notes.designsystem.theme
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
